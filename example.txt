@@ -1,0 +1,172 @@
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: v
+Your task list is currently empty
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: r
+Your task list is currently empty
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: c
+Your task list is currently empty
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: o
+Invalid argument - Please enter a valid option.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: a
+(a) Activity, (g) Grocery, (h) Household, or (any other key not f) for other.
+Please enter a category for your TO-DO list: a
+Now enter the task: Programming Project
+Enter the task priority (1-5): 5
+(a) Activity, (g) Grocery, (h) Household, (any other key not f) for other or (f) for finished.
+Please enter another category for your TO-DO list: a
+Now enter the task: Rugby Practice
+Enter the task priority (1-5): 4
+(a) Activity, (g) Grocery, (h) Household, (any other key not f) for other or (f) for finished.
+Please enter another category for your TO-DO list: g
+Now enter the task: Buy chicken
+Enter the task priority (1-5): 1
+(a) Activity, (g) Grocery, (h) Household, (any other key not f) for other or (f) for finished.
+Please enter another category for your TO-DO list: g
+Now enter the task: Buy salad
+Enter the task priority (1-5): 3
+(a) Activity, (g) Grocery, (h) Household, (any other key not f) for other or (f) for finished.
+Please enter another category for your TO-DO list: h
+Now enter the task: Buy Dish Soap
+Enter the task priority (1-5): 3
+(a) Activity, (g) Grocery, (h) Household, (any other key not f) for other or (f) for finished.
+Please enter another category for your TO-DO list: f
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: c
+Please enter the task name that you want to update: Rugby Practice
+Your task is now complete.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: v
+1. Programming Project - Priority: 5 in the Activity category, and is current not complete.
+2. Rugby Practice - Priority: 4 in the Activity category, and is current complete.
+3. Buy chicken - Priority: 1 in the Grocery category, and is current not complete.
+4. Buy salad - Priority: 3 in the Grocery category, and is current not complete.
+5. Buy Dish Soap - Priority: 3 in the Household category, and is current not complete.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: r
+Please enter the task name that you want to remove: Buy chicken
+Your task has been removed.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: v
+1. Programming Project - Priority: 5 in the Activity category, and is current not complete.
+2. Rugby Practice - Priority: 4 in the Activity category, and is current complete.
+3. Buy salad - Priority: 3 in the Grocery category, and is current not complete.
+4. Buy Dish Soap - Priority: 3 in the Household category, and is current not complete.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: r
+Please enter the task name that you want to remove: Buy salad
+Your task has been removed.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: e
+There are 3 available tasks.
+Are you sure you want to exit (y) for Yes: n
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: a
+(a) Activity, (g) Grocery, (h) Household, or (any other key not f) for other.
+Please enter a category for your TO-DO list: h
+Now enter the task: Clean House
+Enter the task priority (1-5): n
+Invalid error - enter an integer between 1 and 5.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: Invalid argument - Please enter a valid option.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: a
+(a) Activity, (g) Grocery, (h) Household, or (any other key not f) for other.
+Please enter a category for your TO-DO list: f
+Now enter the task: Call parents
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: v
+1. Programming Project - Priority: 5 in the Activity category, and is current not complete.
+2. Rugby Practice - Priority: 4 in the Activity category, and is current complete.
+3. Buy Dish Soap - Priority: 3 in the Household category, and is current not complete.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: a
+(a) Activity, (g) Grocery, (h) Household, or (any other key not f) for other.
+Please enter a category for your TO-DO list: a
+Now enter the task: Bike ride
+Enter the task priority (1-5): 9
+Logic error - task priority needs to be between 1 and 5.
+Enter the task priority (1-5): 3
+(a) Activity, (g) Grocery, (h) Household, (any other key not f) for other or (f) for finished.
+Please enter another category for your TO-DO list: f
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: v
+1. Programming Project - Priority: 5 in the Activity category, and is current not complete.
+2. Rugby Practice - Priority: 4 in the Activity category, and is current complete.
+3. Buy Dish Soap - Priority: 3 in the Household category, and is current not complete.
+4. Bike ride - Priority: 3 in the Activity category, and is current not complete.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: c
+Please enter the task name that you want to update: Buy Dish Soap
+Your task is now complete.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: v
+1. Programming Project - Priority: 5 in the Activity category, and is current not complete.
+2. Rugby Practice - Priority: 4 in the Activity category, and is current complete.
+3. Buy Dish Soap - Priority: 3 in the Household category, and is current complete.
+4. Bike ride - Priority: 3 in the Activity category, and is current not complete.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: c
+Please enter the task name that you want to update: Bike ride
+Your task is now complete.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: r
+Please enter the task name that you want to remove: Buy Dish Soad
+Your task was not found.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: r
+Please enter the task name that you want to remove: Buy Dish Soap
+Your task has been removed.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: v
+1. Programming Project - Priority: 5 in the Activity category, and is current not complete.
+2. Rugby Practice - Priority: 4 in the Activity category, and is current complete.
+3. Bike ride - Priority: 3 in the Activity category, and is current complete.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: c
+Please enter the task name that you want to update: Programming Project
+Your task is now complete.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: e
+There are 3 available tasks.
+Are you sure you want to exit (y) for Yes: n
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: r
+Please enter the task name that you want to remove: Bike ride
+Your task has been removed.
+Please review the menu options.
+(a) for adding a tasks, (v) for viewing tasks, (r) for removing tasks, (c) to complete a task, or (e) for exiting the program.
+Please enter a menu option: e
+There are 2 available tasks.
+Are you sure you want to exit (y) for Yes: y
+
+Process finished with exit code 0

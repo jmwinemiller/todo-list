@@ -1,0 +1,3 @@
+/Users/jordanwinemiller/Desktop/professional/jccc/msu_1384/todo-list/cmake-build-debug/CMakeFiles/todo_list.dir
+/Users/jordanwinemiller/Desktop/professional/jccc/msu_1384/todo-list/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jordanwinemiller/Desktop/professional/jccc/msu_1384/todo-list/cmake-build-debug/CMakeFiles/rebuild_cache.dir

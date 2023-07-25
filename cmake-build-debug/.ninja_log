@@ -1,0 +1,9 @@
+# ninja log v5
+1	492	1690314643262064318	CMakeFiles/todo_list.dir/Menu.cpp.o	59ed6ea80c6e4817
+2	435	1690314679723750168	CMakeFiles/todo_list.dir/main.cpp.o	8289113b38a64d65
+435	475	1690314679766693476	todo_list	daaa97e3066245d0
+0	324	1690308532712629732	CMakeFiles/todo_list.dir/Task.cpp.o	68908b2daea4bc48
+1	299	1690319046009475348	CMakeFiles/todo_list.dir/Task.cpp.o	a1433e9af337cf13
+1	427	1690319046139753057	CMakeFiles/todo_list.dir/main.cpp.o	cfad40c96bb62faa
+1	485	1690319046197735250	CMakeFiles/todo_list.dir/Menu.cpp.o	44eb289b6f9c720a
+485	526	1690319046240149214	todo_list	daaa97e3066245d0
